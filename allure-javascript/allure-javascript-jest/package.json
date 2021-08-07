@@ -7,7 +7,7 @@
   "repository": "https://github.com/simple-elf/allure-examples/js-jest",
   "license": "Apache-2.0",
   "scripts": {
-    "test": "jest --ci --reporters=default --reporters=jest-junit",
+    "test": "jest",
     "lint": "eslint __tests__"
   },
   "devDependencies": {
